@@ -1,3 +1,3 @@
 print("Czesc Natalia!")
-print("MARCZAAAAAK")
+print("MARCZAAAAAK:) ")
 print("kreatynka")
